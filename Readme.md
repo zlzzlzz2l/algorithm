@@ -5,10 +5,10 @@
 
 ---
 
-**백준(BackJoon)📁** : https://www.acmicpc.net/
+**백준(BaekJoon)📁** : https://www.acmicpc.net/
 <br>
 
-- BackJoon/문제번호.py
+- BaekJoon/문제번호.py
 - **skill** : python
   <br>
 
