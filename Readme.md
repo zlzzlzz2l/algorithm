@@ -20,6 +20,12 @@
 - 프로그래머스 코드는 올려둔 파일로는 실행이 안되기 때문에 `복사`로 가져가신 후, 프로그래머스 IDE에 `붙여넣기`하면 정상적으로 실행될 거에요!
   <br>
 
+**SW Expert Academy(SWEA)📁** : https://swexpertacademy.com/main/main.do
+
+- SWEA/문제번호.py
+- **skill** : `python`
+  <br>
+
 ---
 
 문제 풀이는 블로그에 올립니다!
