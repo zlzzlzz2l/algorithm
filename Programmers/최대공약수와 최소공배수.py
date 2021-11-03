@@ -1,3 +1,6 @@
+from math import gcd # 최대공약수 라이브러리
+
+# 라이브러리 이용X
 def solution(n, m):
     answer = []
     n_num = [] # n의 약수 리스트
@@ -27,8 +30,13 @@ def solution(n, m):
 
     return answer
 
+# 라이브러리 이용
+def solution2(n, m):
+    return [gcd(n, m), n * m // gcd(n, m)]
+
 # 입출력 예시
 n = 4
 m = 8
 
 print(solution(n, m))
+print(solution2(n, m))
