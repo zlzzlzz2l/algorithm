@@ -75,3 +75,5 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2475.py"> [2475] 검증수 </a>      |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2557.py"> [2557] Hello World </a> |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2558.py"> [2558] A+B - 2 </a>     |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/8393.py"> [8393] 합 </a>          |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10171.py"> [10171] 고양이 </a>    |      |
