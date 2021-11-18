@@ -66,14 +66,21 @@
 
 ---
 
-| 문제명                                                                                                 | 이슈 |
-| ------------------------------------------------------------------------------------------------------ | ---- |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1000.py">[1000] A+B </a>          |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1001.py"> [1001] A-B </a>         |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1271.py"> [1271] 엄청난 부자 </a> |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1550.py"> [1550] 16진수 </a>      |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2475.py"> [2475] 검증수 </a>      |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2557.py"> [2557] Hello World </a> |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2558.py"> [2558] A+B - 2 </a>     |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/8393.py"> [8393] 합 </a>          |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10171.py"> [10171] 고양이 </a>    |      |
+| 문제명                                                                                                     | 이슈 |
+| ---------------------------------------------------------------------------------------------------------- | ---- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1000.py">[1000] A+B </a>              |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1001.py"> [1001] A-B </a>             |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1271.py"> [1271] 엄청난 부자 </a>     |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1550.py"> [1550] 16진수 </a>          |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2475.py"> [2475] 검증수 </a>          |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2557.py"> [2557] Hello World </a>     |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2558.py"> [2558] A+B - 2 </a>         |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/8393.py"> [8393] 합 </a>              |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10171.py"> [10171] 고양이 </a>        |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10172.py"> [10172] 개 </a>            |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10430.py"> [10430] 나머지 </a>        |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10718.py"> [10718] We love kriii </a> |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10757.py"> [10757] 큰 수 A+B </a>     |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10869.py"> [10869] 사칙연산 </a>      |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10998.py"> [10998] AxB </a>           |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11654.py"> [11654] 아스키 코드 </a>   |      |
