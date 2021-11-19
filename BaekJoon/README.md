@@ -58,9 +58,14 @@
 
 ---
 
-| 문제명 | 이슈 |
-| ------ | ---- |
-|        |      |
+| 문제명                                                                                                     | 이슈 |
+| ---------------------------------------------------------------------------------------------------------- | ---- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1008.py"> [1008] A/B </a>             |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1330.py"> [1330] 두 수 비교하기 </a>  |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2588.py"> [2588] 곱셈 </a>            |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2753.py"> [2753] 윤년 </a>            |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/9488.py"> [9498] 시험 성적 </a>       |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/14681.py"> [14681] 사분면 고르기 </a> |      |
 
 ## BRONZE 5
 
