@@ -50,9 +50,17 @@
 
 ---
 
-| 문제명 | 이슈 |
-| ------ | ---- |
-|        |      |
+| 문제명                                                                                                  | 이슈 |
+| ------------------------------------------------------------------------------------------------------- | ---- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2438.py"> [2438] 별 찍기 - 1 </a>  |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2439.py"> [2439] 별 찍기 - 2 </a>  |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2440.py"> [2440] 별 찍기 - 3 </a>  |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2441.py"> [2441] 별 찍기 - 4 </a>  |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2442.py"> [2442] 별 찍기 - 5 </a>  |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2445.py"> [2445] 별 찍기 - 8 </a>  |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2446.py"> [2446] 별 찍기 - 9 </a>  |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2522.py"> [2522] 별 찍기 - 12 </a> |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2739.py"> [2739] 구구단 </a>       |      |
 
 ## BRONZE 4
 
