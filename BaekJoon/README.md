@@ -50,6 +50,9 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2577.py"> [2577] 숫자의 개수 </a> |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2675.py"> [2675] 문자열 반복 </a> |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2798.py"> [2798] 블랙잭 </a>      |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2908.py"> [2908] 상수 </a>        |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2920.py"> [2920] 음계 </a>        |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/3052.py"> [3052] 나머지 </a>      |      |
 
 ## BRONZE 3
 
