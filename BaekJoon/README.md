@@ -50,22 +50,30 @@
 
 ---
 
-| 문제명                                                                                                     | 이슈 |
-| ---------------------------------------------------------------------------------------------------------- | ---- |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2438.py"> [2438] 별 찍기 - 1 </a>     |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2439.py"> [2439] 별 찍기 - 2 </a>     |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2440.py"> [2440] 별 찍기 - 3 </a>     |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2441.py"> [2441] 별 찍기 - 4 </a>     |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2442.py"> [2442] 별 찍기 - 5 </a>     |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2445.py"> [2445] 별 찍기 - 8 </a>     |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2446.py"> [2446] 별 찍기 - 9 </a>     |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2522.py"> [2522] 별 찍기 - 12 </a>    |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2739.py"> [2739] 구구단 </a>          |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2741.py"> [2741] N 찍기 </a>          |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2742.py"> [2742] 기찍 N </a>          |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2884.py"> [2884] 알람 시계 </a>       |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10818.py"> [10818] 최소, 최대 </a>    |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10871.py"> [10871] X보다 작은 수 </a> |      |
+| 문제명                                                                                                       | 이슈 |
+| ------------------------------------------------------------------------------------------------------------ | ---- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2438.py"> [2438] 별 찍기 - 1 </a>       |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2439.py"> [2439] 별 찍기 - 2 </a>       |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2440.py"> [2440] 별 찍기 - 3 </a>       |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2441.py"> [2441] 별 찍기 - 4 </a>       |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2442.py"> [2442] 별 찍기 - 5 </a>       |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2445.py"> [2445] 별 찍기 - 8 </a>       |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2446.py"> [2446] 별 찍기 - 9 </a>       |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2522.py"> [2522] 별 찍기 - 12 </a>      |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2739.py"> [2739] 구구단 </a>            |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2741.py"> [2741] N 찍기 </a>            |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2742.py"> [2742] 기찍 N </a>            |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2884.py"> [2884] 알람 시계 </a>         |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10818.py"> [10818] 최소, 최대 </a>      |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10871.py"> [10871] X보다 작은 수 </a>   |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10950.py"> [10950] A+B - 3 </a>         |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10951.py"> [10951] A+B - 4 </a>         |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10952.py"> [10952] A+B - 5 </a>         |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10991.py"> [10991] 별 찍기 - 16 </a>    |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10992.py"> [10992] 별 찍기 - 17 </a>    |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11021.py"> [11021] A+B - 7 </a>         |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11022.py"> [11022] A+B - 8 </a>         |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11718.py"> [11718] 그대로 출력하기 </a> |      |
 
 ## BRONZE 4
 
