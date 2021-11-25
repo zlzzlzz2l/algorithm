@@ -42,9 +42,14 @@
 
 ---
 
-| 문제명 | 이슈 |
-| ------ | ---- |
-|        |      |
+| 문제명                                                                                                 | 이슈 |
+| ------------------------------------------------------------------------------------------------------ | ---- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1152.py"> [1152] 단어의 개수 </a> |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2309.py"> [2309] 일곱 난쟁이 </a> |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2562.py"> [2562] 최댓값 </a>      |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2577.py"> [2577] 숫자의 개수 </a> |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2675.py"> [2675] 문자열 반복 </a> |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2798.py"> [2798] 블랙잭 </a>      |      |
 
 ## BRONZE 3
 
