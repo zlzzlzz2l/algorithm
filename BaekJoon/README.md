@@ -42,17 +42,21 @@
 
 ---
 
-| 문제명                                                                                                 | 이슈 |
-| ------------------------------------------------------------------------------------------------------ | ---- |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1152.py"> [1152] 단어의 개수 </a> |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2309.py"> [2309] 일곱 난쟁이 </a> |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2562.py"> [2562] 최댓값 </a>      |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2577.py"> [2577] 숫자의 개수 </a> |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2675.py"> [2675] 문자열 반복 </a> |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2798.py"> [2798] 블랙잭 </a>      |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2908.py"> [2908] 상수 </a>        |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2920.py"> [2920] 음계 </a>        |      |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/3052.py"> [3052] 나머지 </a>      |      |
+| 문제명                                                                                                             | 이슈 |
+| ------------------------------------------------------------------------------------------------------------------ | ---- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1152.py"> [1152] 단어의 개수 </a>             |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2309.py"> [2309] 일곱 난쟁이 </a>             |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2562.py"> [2562] 최댓값 </a>                  |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2577.py"> [2577] 숫자의 개수 </a>             |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2675.py"> [2675] 문자열 반복 </a>             |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2798.py"> [2798] 블랙잭 </a>                  |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2908.py"> [2908] 상수 </a>                    |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2920.py"> [2920] 음계 </a>                    |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/3052.py"> [3052] 나머지 </a>                  |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/8958.py"> [8958] OX퀴즈 </a>                  |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10953.py"> [10953] A+B - 6 </a>               |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11720.py"> [11720] 숫자의 합 </a>             |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11721.py"> [11721] 열 개씩 끊어 출력하기 </a> |      |
 
 ## BRONZE 3
 
