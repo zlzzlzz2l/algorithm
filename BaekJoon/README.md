@@ -57,6 +57,8 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10953.py"> [10953] A+B - 6 </a>               |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11720.py"> [11720] 숫자의 합 </a>             |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11721.py"> [11721] 열 개씩 끊어 출력하기 </a> |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/15552.py"> [15552] 빠른 A+B </a>              |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/15596.py"> [15596] 정수 N개의 합 </a>         |      |
 
 ## BRONZE 3
 
