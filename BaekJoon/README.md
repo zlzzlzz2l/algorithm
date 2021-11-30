@@ -34,9 +34,13 @@
 
 ---
 
-| 문제명 | 이슈 |
-| ------ | ---- |
-|        |      |
+| 문제명                                                                                                   | 이슈                                                                     |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1110.py"> [1110] 더하기 사이클 </a> |                                                                          |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1157.py"> [1157] 단어 공부 </a>     |                                                                          |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1546.py"> [1546] 평균 </a>          |                                                                          |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1924.py"> [1924] 2007년 </a>        |                                                                          |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2750.py"> [2750] 수 정렬하기 </a>   | <a href="https://github.com/zlzzlzz2l/algorithm/issues/2"> 생각하기 </a> |
 
 ## BRONZE 2
 
