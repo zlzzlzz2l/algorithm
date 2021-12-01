@@ -19,3 +19,8 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/SWEA/4837.py">4837 - 부분집합의 합</a> |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/SWEA/4839.py">4839 - 이진탐색</a>      |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/SWEA/4843.py">4843 - 특별한 정렬</a>   |      |
+
+## 파이썬 SW문제해결 기본 String
+| 문제명 | 이슈 |
+| --- | --- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/SWEA/4864.py"> 4864 - 문자열 비교 </a> | |
