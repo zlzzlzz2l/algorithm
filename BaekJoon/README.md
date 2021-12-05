@@ -1,3 +1,22 @@
+# BOJ
+- 태그
+  - 완전 탐색(Brute Force)
+- 레벨순
+  - BRONZE 1
+  - BRONZE 2
+  - BRONZE 3
+  - BRONZE 4
+  - BRONZE 5
+---
+
+# Tag
+## 완전탐색(Brute Force)
+| 문제명 | 이슈 |
+| --- | --- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2503.py">[2503] 숫자 야구 </a> | |
+
+
+# Level
 ## SLIVER 2
 
 ---
