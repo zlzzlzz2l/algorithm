@@ -1,6 +1,6 @@
 # BOJ
-- 태그
-  - 완전 탐색(Brute Force)
+- <a href="https://github.com/zlzzlzz2l/algorithm/tree/master/BaekJoon#tag">태그</a>
+  - <a href="https://github.com/zlzzlzz2l/algorithm/tree/master/BaekJoon#%EC%99%84%EC%A0%84%ED%83%90%EC%83%89brute-force">완전 탐색(Brute Force)</a>
 - 레벨순
   - BRONZE 1
   - BRONZE 2
