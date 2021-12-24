@@ -11,3 +11,17 @@ for i in range(len(s)):
         result *= int(s[i])
 
 print(result)
+
+# A2
+# result2의 초기값을 s2[0]으로 설정하고, s[1]부터 더하거나 곱하기
+s2 = input()
+result2 = int(s2[0])
+
+for i in range(1, len(s)):
+    num = int(s2[i])
+    if num <= 1:
+        result2 += num
+    else:
+        result2 *= num
+
+print(result2)
