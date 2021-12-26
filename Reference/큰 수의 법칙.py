@@ -25,29 +25,25 @@ print(result)
 
 # A2
 # 입력값 받기
-# import time
-# st = time.time()
-#
-# N, M, K = map(int, input().split())
-# num = list(map(int, input().split()))
-#
-# # 내림차순 정렬
-# num.sort()
-# first = num[N-1]
-# second = num[N-2]
-#
-# result = 0
-#
-# while True:
-#     for i in range(K):
-#         if M == 0:
-#             break
-#         result += first
-#         M -= 1
-#     if M == 0:
-#         break
-#     result += second
-#     M -= 1
-# print(result)
-# et = time.time()
-# print("time: ", et-st)
+N, M, K = map(int, input().split())
+num = list(map(int, input().split()))
+
+# 내림차순 정렬
+num.sort()
+first = num[N-1]
+second = num[N-2]
+
+result = 0
+
+while True:
+    for i in range(K):
+        if M == 0:
+            break
+        result += first
+        M -= 1
+    if M == 0:
+        break
+    result += second
+    M -= 1
+
+print(result)
