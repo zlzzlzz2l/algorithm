@@ -26,6 +26,12 @@
 - **skill** : `python`
   <br>
 
+**이것이 취업을 위한 코딩테스트다 with 파이썬** : http://www.yes24.com/Product/Goods/91433923
+
+- Reference/문제이름.py
+- skill : `python`
+<br>
+
 ---
 
 문제 풀이는 블로그에 올립니다!
