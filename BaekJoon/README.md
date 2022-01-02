@@ -15,6 +15,12 @@
 | --- | --- |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2503.py">[2503] 숫자 야구 </a> | |
 
+## 그리디(Greedy)
+| 문제명 | 이슈 |
+| --- | --- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11047.py">[11407] 동전 0 </a> | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11399.py">[11399] ATM </a> | |
+
 
 # Level
 ## SLIVER 2
