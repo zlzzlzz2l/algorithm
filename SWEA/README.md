@@ -27,3 +27,11 @@
 | 문제명 | 이슈 |
 | --- | --- |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/SWEA/4864.py"> 4864 - 문자열 비교 </a> | |
+
+## 파이썬 SW문제해결 기본 Stack
+
+---
+
+| 문제명 | 이슈 |
+| --- | --- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/SWEA/4866.py"> 4866 - 괄호검사1 </a> | |
