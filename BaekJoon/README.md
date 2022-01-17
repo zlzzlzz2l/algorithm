@@ -51,9 +51,10 @@
 
 ---
 
-| 문제명 | 이슈 |
-| ------ | ---- |
-|        |      |
+| 문제명                                                                                               | 이슈 |
+|---------------------------------------------------------------------------------------------------| ---- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2751.py"> [2751] 수 정렬하기 </a> |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2609.py"> [2609] 최대공약수와 최소공배수 </a> | |
 
 ## BRONZE 1
 
@@ -89,6 +90,7 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/15552.py"> [15552] 빠른 A+B </a>              |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/15596.py"> [15596] 정수 N개의 합 </a>         |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10809.py"> [10809] 알파벳 찾기 </a> | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10808.py"> [10808] 알파벳 개수 </a> | |
 
 ## BRONZE 3
 
