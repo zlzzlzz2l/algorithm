@@ -43,9 +43,12 @@
 
 ---
 
-| 문제명 | 이슈 |
-| ------ | ---- |
-|        |      |
+| 문제명                                                                                           | 이슈   |
+|-----------------------------------------------------------------------------------------------|------|
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/9012.py"> [9012] 괄호 </a> |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2108.py"> [2108] 통계학 </a> | `복습` |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10828.py"> [10828] 스택 </a> |      |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10845.py"> [10845] 큐 </a> | |
 
 ## SLIVER 5
 
