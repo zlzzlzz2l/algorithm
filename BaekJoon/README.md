@@ -22,9 +22,10 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11399.py">[11399] ATM </a> | |
 
 ## 정렬(Sorting)
-| 문제명 | 이슈 |
-| --- | --- |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11650.py">[11650] 좌표 정렬하기 </a> | |
+| 문제명                                                                                                  | 이슈 |
+|------------------------------------------------------------------------------------------------------| --- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11650.py">[11650] 좌표 정렬하기 </a>  | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11651.py">[11651] 좌표 정렬하기2 </a> | |
 
 
 # Level
@@ -60,11 +61,12 @@
 
 ---
 
-| 문제명                                                                                               | 이슈 |
-|---------------------------------------------------------------------------------------------------| ---- |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2751.py"> [2751] 수 정렬하기 </a> |      |
+| 문제명                                                                                                     | 이슈 |
+|---------------------------------------------------------------------------------------------------------| ---- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2751.py"> [2751] 수 정렬하기 </a>       |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2609.py"> [2609] 최대공약수와 최소공배수 </a> | |
-| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11650.py">[11650] 좌표 정렬하기 </a> | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11650.py">[11650] 좌표 정렬하기 </a>     | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11651.py">[11651] 좌표 정렬하기2 </a>    | |
 
 ## BRONZE 1
 
