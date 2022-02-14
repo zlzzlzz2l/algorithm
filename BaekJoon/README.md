@@ -26,6 +26,7 @@
 |------------------------------------------------------------------------------------------------------| --- |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11650.py">[11650] 좌표 정렬하기 </a>  | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11651.py">[11651] 좌표 정렬하기2 </a> | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10814.py">[10814] 나이순 정렬 </a> | |
 
 
 # Level
@@ -67,6 +68,7 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2609.py"> [2609] 최대공약수와 최소공배수 </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11650.py">[11650] 좌표 정렬하기 </a>     | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11651.py">[11651] 좌표 정렬하기2 </a>    | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10814.py">[10814] 나이순 정렬 </a> | |
 
 ## BRONZE 1
 
