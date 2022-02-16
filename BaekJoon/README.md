@@ -28,6 +28,7 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11651.py">[11651] 좌표 정렬하기2 </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10814.py">[10814] 나이순 정렬 </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10989.py">[10989] 수 정렬하기3 </a> | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11004.py">[11004] K번째 수</a> | |
 
 
 # Level
@@ -71,6 +72,7 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11651.py">[11651] 좌표 정렬하기2 </a>    |     |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10814.py">[10814] 나이순 정렬 </a> |     |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10989.py">[10989] 수 정렬하기3 </a> | `복습` |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11004.py">[11004] K번째 수</a> | |
 
 ## BRONZE 1
 
