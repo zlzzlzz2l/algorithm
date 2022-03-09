@@ -1,16 +1,14 @@
 def solution(n):
-    answer = 0
-    for i in range(2, n+1): # 입력값들 내에서 소수 찾기
-        cnt = 0
-        for j in range(2, i): # 2부터 자기 자신까지 반복
-            if i % j == 0:
-                cnt += 1
-                break
-        if cnt == 0:
-            answer += 1
+    graph = [True] * (n+1)
+    m = int(n ** 0.5)
+    for i in range(2, m+1):
+        if graph[i] == True:
+            for j in range(i+i, n+1, i):
+                graph[j] = False
 
-    return answer
+    result = [i for i in range(2, n+1) if graph[i] == True]
+    return len(result)
 
 # 입출력 예시
-n = 10
+n = 5
 print(solution(n))
