@@ -10,6 +10,7 @@
 ---
 
 # Tag
+
 ## 완전탐색(Brute Force)
 | 문제명 | 이슈 |
 | --- | --- |
@@ -59,6 +60,7 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10828.py"> [10828] 스택 </a> |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10845.py"> [10845] 큐 </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10866.py"> [10866] 덱 </a> | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2164.py"> [2164] 카드2 </a> | |
 
 ## SLIVER 5
 
