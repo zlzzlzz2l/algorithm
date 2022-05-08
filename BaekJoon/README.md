@@ -140,7 +140,7 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11021.py"> [11021] A+B - 7 </a>         |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11022.py"> [11022] A+B - 8 </a>         |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11718.py"> [11718] 그대로 출력하기 </a> |      |
-
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1085.py"> [1085] 직사각형에서 탈출 </a> | |
 ## BRONZE 4
 
 ---
