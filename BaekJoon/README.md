@@ -143,6 +143,7 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1085.py"> [1085] 직사각형에서 탈출 </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/3460.py"> [3460] 이진수 </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/9085.py"> [9085] 더하기 </a> | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2490.py"> [2490] 윷놀이 </a> | |
 
 ## BRONZE 4
 
