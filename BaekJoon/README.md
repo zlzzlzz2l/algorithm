@@ -33,6 +33,11 @@
 
 
 # Level
+## SLIVER 1
+| 문제명 | 이슈 |
+| --- | --- |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1926.py"> [1926] 그림 </a> | |
+
 ## SLIVER 2
 
 ---
