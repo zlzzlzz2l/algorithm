@@ -116,6 +116,7 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/15596.py"> [15596] 정수 N개의 합 </a>         |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10809.py"> [10809] 알파벳 찾기 </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10808.py"> [10808] 알파벳 개수 </a> | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/17094.py"> [17094] Serious Problem </a> | |
 
 ## BRONZE 3
 
