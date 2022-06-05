@@ -164,6 +164,7 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/9488.py"> [9498] 시험 성적 </a>       |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/14681.py"> [14681] 사분면 고르기 </a> |      |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/11365.py"> [11365] !밀비 급일 </a> | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1264.py"> [1264] 모음의 개수 </a> | |
 
 ## BRONZE 5
 
