@@ -117,6 +117,7 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10809.py"> [10809] 알파벳 찾기 </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10808.py"> [10808] 알파벳 개수 </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/17094.py"> [17094] Serious Problem </a> | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10173.py"> [10173] 니모를 찾아서 </a> | |
 
 ## BRONZE 3
 
