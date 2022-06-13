@@ -153,6 +153,7 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/9085.py"> [9085] 더하기 </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/2490.py"> [2490] 윷놀이 </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/13752.py"> [13752] 히스토그램 </a> | 
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/15000.py"> [15000] CAPS </a> | |
 
 ## BRONZE 4
 
