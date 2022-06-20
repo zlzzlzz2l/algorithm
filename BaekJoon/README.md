@@ -119,6 +119,8 @@
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/17094.py"> [17094] Serious Problem </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/10173.py"> [10173] 니모를 찾아서 </a> | |
 | <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/5524.py"> [5524] 입실 관리 </a> | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1100.py"> [1100] 하얀 칸 </a> | |
+| <a href="https://github.com/zlzzlzz2l/algorithm/blob/master/BaekJoon/1009.py"> [1009] 분산처리 </a> | |
 
 ## BRONZE 3
 
