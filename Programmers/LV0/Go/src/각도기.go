@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func solution(angle int) int {
+func solution_각도기(angle int) int {
 	if angle > 0 && angle < 90 {
 		return 1
 	} else if angle == 90 {
@@ -15,5 +15,5 @@ func solution(angle int) int {
 }
 
 func main() {
-	fmt.Println(solution(30))
+	fmt.Println(solution_각도기(30))
 }

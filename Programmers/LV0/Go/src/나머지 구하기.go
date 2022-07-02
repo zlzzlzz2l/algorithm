@@ -2,10 +2,10 @@ package main
 
 import "fmt"
 
-func solution_divide(num1 int, num2 int) int {
+func solution_나머지구하기(num1 int, num2 int) int {
 	return num1 % num2
 }
 
 func main() {
-	fmt.Println(solution_divide(15, 3))
+	fmt.Println(solution_나머지구하기(15, 3))
 }

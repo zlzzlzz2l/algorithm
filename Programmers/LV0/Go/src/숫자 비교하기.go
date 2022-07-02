@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func solution_num(num1 int, num2 int) int {
+func solution_숫자비교하기(num1 int, num2 int) int {
 	if num1 != num2 {
 		return -1
 	}
@@ -10,5 +10,5 @@ func solution_num(num1 int, num2 int) int {
 }
 
 func main() {
-	fmt.Println(solution_num(12, 3))
+	fmt.Println(solution_숫자비교하기(12, 3))
 }
