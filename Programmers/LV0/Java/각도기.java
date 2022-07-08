@@ -1,13 +1,13 @@
 public class 각도기 {
     public static void main(String[] args) {
         // example
-        Solution solution = new Solution();
+        Solution_각도기 solution = new Solution_각도기();
         int result = solution.solution(30);
         System.out.println(result);
     }
 }
 
-class Solution {
+class Solution_각도기 {
     public int solution(int angle) {
         int answer = 0;
         if (angle > 0 && angle < 90) {
