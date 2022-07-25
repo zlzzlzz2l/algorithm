@@ -1,25 +1,29 @@
+import math
+
+
 def solution(denum1, num1, denum2, num2):
     answer = []
-    # 두 수가 배수관계일때.
-    if max(num1, num2) % min(num1, num2) == 0:
-        tmp = max(num1, num2) // min(num1, num2)
-        if num1 <= num2:
-            answer = [denum1 * tmp + denum2, num2]
-        else:
-            answer = [denum2 * tmp + denum1, num1]
-    # 두 수가 배수관계가 아닐때.
-    else:
-        answer = [denum2 * num1 + denum1 * num2, num1 * num2]
 
-    # 약분되는지 판별
-    div = 2
-    while min(answer[0], answer[1]) >= div:
-        if answer[0] % div == 0 and answer[1] % div == 0:
-            answer[0] = answer[0] // div
-            answer[1] = answer[1] // div
-        else:
-            div += 1
+    res_num = int(num1 * num2 / math.gcd(num1, num2))
+    if denum1 != res_num:
+        a = res_num // num1
+        denum1 = denum1 * a
+    if denum2 != res_num:
+        b = res_num // num2
+        denum2 = denum2 * b
+
+    res_denum = denum1 + denum2
+
+    if math.gcd(res_denum, res_num) != 1:
+        res = math.gcd(res_denum, res_num)
+        res_denum //= res
+        res_num //= res
+        answer.append(res_denum)
+        answer.append(res_num)
+    else:
+        answer.append(res_denum)
+        answer.append(res_num)
     return answer
 
 
-print(solution(3, 5, 2, 3))
+print(solution(2, 4, 1, 3))
