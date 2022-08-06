@@ -8,4 +8,5 @@ def solution(angle):
     else:
         return 4
 
+
 print(solution(120))
