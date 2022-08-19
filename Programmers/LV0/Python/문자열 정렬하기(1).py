@@ -7,4 +7,5 @@ def solution(my_string):
             continue
     return sorted(answer)
 
+
 print(solution("abcde0"))
