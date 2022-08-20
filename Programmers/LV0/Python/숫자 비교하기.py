@@ -3,4 +3,5 @@ def solution(num1, num2):
         return -1
     return 1
 
+
 print(solution(5, 5))
