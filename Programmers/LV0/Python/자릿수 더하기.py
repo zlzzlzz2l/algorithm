@@ -5,4 +5,5 @@ def solution(n):
         answer += int(i)
     return answer
 
+
 print(solution(1234))
