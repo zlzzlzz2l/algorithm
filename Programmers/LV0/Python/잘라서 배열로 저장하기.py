@@ -4,4 +4,5 @@ def solution(my_str, n):
         answer.append(my_str[s:s+n])
     return answer
 
+
 print(solution("abcdef123", 3))
