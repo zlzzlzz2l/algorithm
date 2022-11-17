@@ -16,7 +16,7 @@ public class Programmers_120585 {
                 answer += 1;
             }
         }
-        
+
         return answer;
     }
 }
